@@ -1,0 +1,165 @@
+prosodic
+prosody
+intonation
+intonational
+syllable
+accent
+Romance
+prenuclear
+phonetic
+Praat
+Tobi
+exclamative
+contrastive
+prominence
+exclamation
+stylization
+Glissando
+pragmatics
+politeness
+interlocutor
+vowel
+gesture
+semitone
+eyebrow
+culminativity
+praat
+declarative
+culminative
+TextGrid
+transcriber 
+paralinguistic
+illocutionary
+voiceless
+variationist
+vocative
+evidential
+resynthesis
+contrastivity
+SpToBI
+SPPAS
+articulograph
+naturalness
+tritonal
+imposition
+interjection
+brow
+paroxytonic
+speech act 
+sentence type
+prosody research
+spontaneous speech
+phonetic transcription
+pitch accent
+visual information
+pitch range
+boundary tone
+prosodic analysis 
+male speaker
+linguistic information
+identification task
+syllable position
+syllable duration
+female speaker
+realizational strength
+word accent
+initial syllable
+prenuclear region
+orthographic transcription
+audio-visual information
+speech material
+prosodic information
+categorical perception
+audio information
+post-stressed syllable 
+prosodic unit 
+audio-visual integration
+melodic contour
+word boundary
+speech prosody
+low tone
+syllable structure
+pitch contour
+speech production
+verb phrase
+acoustic analysis
+test subject
+right word boundary
+sentence-type identification
+romance prosody research 
+base pitch
+verbal signal
+intonation contour
+penultimate syllable
+rising pitch
+high boundary
+pitch movement
+multimodal information 
+multimodal communication
+high tone      
+null-subject language
+sentence modality 
+prenuclear position 
+nuclear accent 
+intonational phrase 
+contrastive focus 
+final syllable 
+peak velocity 
+interrogative condition 
+tonal realization 
+semi-spontaneous speech
+left-adjacent syllable
+pre-stressed syllable
+rightmost syllable
+low boundary tone
+aboutness-shift topic 
+contrastive topic 
+prosodic prominence
+pragmatic interpretation 
+prosodic phrasing
+talking head
+gating paradigm
+perception experiment 
+speech style 
+rising tone 
+nuclear stress
+lip movement
+perception test 
+directive speech
+narrow focus
+information structure
+syntactic structure
+prenuclear accent
+rising pitch accent
+morphological annotation
+phonetic annotation
+positional annotation
+prenuclear contour
+sentence-type disambiguation
+prosodic domain
+gesture duration
+counter-expectation interpretation
+pre-boundary opening
+categorical perception paradigm
+intonational pattern
+close-copy stylization
+leftmost syllable
+rising-falling pitch
+forced-choice identification task
+prosodic word
+visual prosody
+eyebrow movement
+neutral speech
+automatic transcription
+vocal effort
+phonological word
+illocutionary force
+final peak
+final stress
+synthetic speech
+culminative word accent
+rising-falling pitch accent
+tritonal pitch accent
+inter-transcriber agreement
+post-boundary closing
+rising-falling contour

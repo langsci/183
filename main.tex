@@ -1,0 +1,48 @@
+\documentclass[output=book,modfonts,nonflat,collection,collectionchapter
+% 	        ,colorlinks, citecolor=brown, 
+% 	        ,draft,	        ,draftmode 
+% 	        ,undecapitalize
+% 		,showindex
+	        ,newtxmath
+		  ]{langsci/langscibook}              
+\input{localmetadata.tex}
+\input{localpackages.tex}
+\input{localhyphenation.tex}
+\input{localcommands.tex} 
+\bibliography{localbibliography} 
+
+% WARNINGS FOR HYPERREF AND TOCSTYLE DISABLED IN langscibook.cls!
+\WarningFilter{latexfont}{Font shape}
+\WarningFilter{hyperref}{XeTeX driver}
+\WarningFilter{tocstyle}{THIS IS AN ALPHA}
+\WarningFilter{hyperref}{Option `colorlinks'}
+\WarningFilter{hyperref}{Token not allowed in a PDF string (Unicode):}
+\WarningFilter{biblatex}{'babel/polyglossia' detected but 'csquotes' missing}
+% \WarningFilter{biblatex}{package incompatibility detected}
+\WarningFilter{./langsci/styles/langsci-gb4e}{You have requested} 
+\begin{document}         
+\maketitle                
+\frontmatter 
+\currentpdfbookmark{Contents}{name} % adds a PDF bookmark
+{\sloppy\tableofcontents} 
+%% Additional prefaces and/or introductions that also have authors
+ \lsCollectionPaperFrontmatterMode % Enter the Frontmatter Mode. 
+ \includepaper{chapters/intro}
+ \includepaper{chapters/prefaceEd}
+ \lsCollectionPaperMainmatterMode % Leave the Frontmatter Mode 
+ \setcounter{chapter}{0} % Reset the chapter counter so that preceeding prefaces are not counted 
+\mainmatter
+
+\part{Large corpora and spontaneous speech} 
+\includepaper{chapters/gar2}  % PDF in MethProsRom_new  tables 1 2 8 9 14
+\includepaper{chapters/pes}  %PDF in MethProsRom 
+ \part{Approaches to prosodic analysis} 
+ \includepaper{chapters/gil}   
+ \includepaper{chapters/buc}   
+ \includepaper{chapters/kel}   
+ \part{Elicitation methods} 
+ \includepaper{chapters/van}   
+ \includepaper{chapters/mor}    %PDF in MethProsRom, moraes2014 generates full name in text
+
+\input{backmatter.tex} 
+\end{document}  

@@ -1,0 +1,13 @@
+preface: fehlt noch
+font:
+gam: warten
+gar
+gil: 
+  convert remaining bib entrie
+  crossrefs
+  clear copyright
+kal: URLs to footnotes, eps-Grafiken
+kel
+mor
+pes
+uth: warten

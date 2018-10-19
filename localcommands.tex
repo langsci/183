@@ -1,0 +1,13 @@
+%add all your local new commands to this file
+
+\newcommand{\textstyleStrong}{\textsc}
+
+\newcommand{\fnref}[1]{Footnote~\ref{#1}}
+\newcommand{\graphref}[1]{Figure~\ref{#1}}
+\newcommand{\nocaption}{{\color{red} Please provide a caption}}
+
+\renewcommand{\connect}[2]{%
+  \tikz[overlay,remember picture]{%
+    \draw[-,thick] ($(pic cs:#1) +(-.75ex,1.75ex)$) -- ($(pic cs:#2) +(.5ex,-.25ex)$);  %
+  }
+}
