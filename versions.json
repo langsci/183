@@ -3,6 +3,12 @@
 	      "authors": [{"name": "Ingo Feldhausen"},
 			  {"name":" Jan Fliessbach"},
 			  {"name":" Maria del Mar Vanrell"}],
-	      "publishedAt": "2018-06-13T12:23:31.000Z"}
+	      "publishedAt": "2018-06-13T12:23:31.000Z"},
+	      {"versiontype": "first_edition", 
+	      "title": "Methods in prosody: A Romance language perspective",
+	      "authors": [{"name": "Ingo Feldhausen"},
+			  {"name":" Jan Fliessbach"},
+			  {"name":" Maria del Mar Vanrell"}],
+	      "publishedAt": "2018-10-23T12:23:31.000Z"}
 	      ]
 }
